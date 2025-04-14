@@ -1,4 +1,5 @@
 ﻿namespace ForumDev.Domain.Reports;
+
 public enum Status
 {
     Open,
